@@ -2,7 +2,6 @@
 
 🎓 Étudiante en 2ᵉ année du cycle ingénieur en Génie Informatique à l’ENSAO (École Nationale des Sciences Appliquées d’Oujda)  
 💻 Passionnée par le développement web, mobile et desktop  
-🚀 À la recherche d’un stage pratique de **2 mois à partir de juillet 2026** pour mettre en œuvre mes compétences et contribuer à des projets innovants  
 
 ---
 
