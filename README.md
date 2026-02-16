@@ -32,14 +32,6 @@
 
 ---
 
-## 🎓 Formation
-- **Cycle Ingénieur – Génie Informatique** – ENSAO (2024–2027)  
-- **Cycle Préparatoire** – ENSAO (2022–2024)  
-- **Baccalauréat Sciences Physiques** – Lycée El Fath, Taourirt (2021–2022)  
-
- 
----
-
 ## 📫 Contact
 - 📍 Oujda, Maroc  
 - ✉️ lamyaehamdaoui0@gmail.com  
