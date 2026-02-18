@@ -7,7 +7,7 @@
 
 ## 🔧 Compétences techniques
 - **Langages** : Python, Java, C/C++, C#, PHP, JavaScript, HTML/CSS
-- **Frameworks & Librairies** : JavaFX, Symfony, React, Bootstrap  
+- **Frameworks & Librairies** : JavaFX, Symfony, React, Bootstrap  , Spring Boot, Angular
 - **Bases de données & Modélisation** : SQL/PLSQL, MySQL, UML, XML  
 - **Autres** : Firebase, SceneBuilder, Microsoft Access & VBA  
 
@@ -18,7 +18,7 @@
   Application Symfony avec authentification, inscriptions utilisateurs, validations sécurisées et interface responsive.  
   *Technologies* : Symfony, PHP, Doctrine, MySQL, Twig, Bootstrap  
 
-- 📱 **Application Mobile de Gestion des RH**  
+- 📱 **Application Mobile de Gestion des RH**  🎥 [demo](https://drive.google.com/file/d/13bP2j34jvdao1b2uy2z81LiIhXxhEAzS/view?usp=drive_link)
   Application Android pour la gestion des présences, congés, réunions et attestations avec synchronisation en temps réel via Firebase.  
   *Technologies* : Java, XML, Firebase, Android Studio  
 
