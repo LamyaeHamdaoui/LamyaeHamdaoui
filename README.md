@@ -18,15 +18,15 @@
   Application Symfony avec authentification, inscriptions utilisateurs, validations sécurisées et interface responsive.  
   *Technologies* : Symfony, PHP, Doctrine, MySQL, Twig, Bootstrap  
 
-- 📱 **Application Mobile de Gestion des RH**   [demo](https://drive.google.com/file/d/13bP2j34jvdao1b2uy2z81LiIhXxhEAzS/view?usp=drive_link)
+- 📱 **Application Mobile de Gestion des RH**   [demo](https://drive.google.com/file/d/13bP2j34jvdao1b2uy2z81LiIhXxhEAzS/view?usp=drive_link)<br>
   Application Android pour la gestion des présences, congés, réunions et attestations avec synchronisation en temps réel via Firebase.  
   *Technologies* : Java, XML, Firebase, Android Studio  
 
-- 🚗 **Système de Gestion du Parc Automobile**   [demo][(https://drive.google.com/file/d/1YOPDnwxqzIx_97DynPBGDQMdPk_zOMoD/view?usp=drive_link)]
+- 🚗 **Système de Gestion du Parc Automobile**   [demo](https://drive.google.com/file/d/1YOPDnwxqzIx_97DynPBGDQMdPk_zOMoD/view?usp=drive_link)<br>
   Système automatisé de suivi des véhicules avec rappels, centralisation des données et statistiques.  
   *Technologies* : Microsoft Access, VBA  
 
-- 🖥 **Application Desktop de Suivi Médical**   
+- 🖥 **Application Desktop de Suivi Médical**   [demo](https://drive.google.com/file/d/1fLLCK2eTjwRVfJ58WyYuR1BlNBIj3w-y/view?usp=drive_link)<br>
   Application JavaFX pour la gestion des patients, traitements et rendez-vous avec authentification sécurisée et statistiques.  
   *Technologies* : Java, JavaFX, MySQL, CSS  
 
