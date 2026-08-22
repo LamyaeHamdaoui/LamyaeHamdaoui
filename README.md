@@ -16,8 +16,10 @@
 
 ## 📂 Projets principaux
 
-- 🤖 **SmarTest — Plateforme intelligente de génération et de gestion des quiz et examens** [Demo](https://drive.google.com/file/d/1WbCeWquyjs3qW8gmRWznNIhrliELxq1e/view?usp=drive_link)<br>
-  Plateforme hybride permettant la génération automatique de quiz et d'examens à partir de supports pédagogiques, la supervision des examens en temps réel et l'assistance à la correction par intelligence artificielle.  
+- 🤖 **SmarTest — Plateforme intelligente de génération et de gestion des quiz et examens** [Demo](https://drive.google.com/file/d/1WbCeWquyjs3qW8gmRWznNIhrliELxq1e/view?usp=drive_link)
+
+  Plateforme hybride permettant la génération automatique de quiz et d'examens à partir de supports pédagogiques, la supervision des examens en temps réel et l'assistance à la correction par intelligence artificielle.
+  
   *Technologies* : .NET, WPF, C#, React, TypeScript, Spring Boot, Java, MySQL, SQLite, REST API, WebSocket, Docker, Groq API, LLM
 
 - 🛠 **Application Web de Gestion d’Ateliers** [Demo](https://drive.google.com/file/d/13fe3dAtDT7RI4LTv-BrGFlCWRY39bYhq/view?usp=drive_link)
