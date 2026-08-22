@@ -46,6 +46,8 @@
   
   *Technologies* : Java, JavaFX, MySQL, CSS
 
+  ---
+
   ## 📫 Contact
 - 📍 Oujda, Maroc
 - ✉️ lamyaehamdaoui0@gmail.com
