@@ -45,3 +45,9 @@
   Application JavaFX pour la gestion des patients, traitements et rendez-vous avec authentification sécurisée et statistiques.
   
   *Technologies* : Java, JavaFX, MySQL, CSS
+
+  ## 📫 Contact
+- 📍 Oujda, Maroc
+- ✉️ lamyaehamdaoui0@gmail.com
+- 🔗 LinkedIn : https://linkedin.com/in/lamyae-hamdaoui
+- 💻 GitHub : https://github.com/LamyaeHamdaoui
